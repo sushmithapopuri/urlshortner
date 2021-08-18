@@ -1,4 +1,4 @@
-# urlshortner
+# URL Shortner
 
 A Pet Project to shorten the URLs developed using Flask in python.
 
